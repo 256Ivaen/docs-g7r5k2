@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-pu12mb.yoursingles.online/sitemap.xml
